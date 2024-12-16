@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color:lightgray;
+}
+h1{
+    font-weight: 900;
+    font-style:oblique;
+    color: darkcyan;
+    margin-top: 12px;
+}
+button{
+    color: whitesmoke;
+    font-weight: 900;
+    font-style: normal;
+    background-color: rgb(100, 174, 245);
+    border-radius: 18px;
+    margin: 4px;
+    padding: 14px;
+}
+button:hover{
+    color: yellow;
+    background-color: cadetblue;
+
+}
