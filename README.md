@@ -8,5 +8,5 @@ The key components of such a project include:
 2. **CSS Styling**: Designing an appealing user interface to enhance user experience.
 3. **JavaScript Logic**: Implementing functions for adding items to the cart, updating quantities, calculating totals, and handling local storage operations to persist cart data across sessions.
 
-This project serves as both a practical coding exercise and a foundational step for building more complex e-commerce applications, making it an excellent choice for developers looking to enhance their front-end skills [citation:2][citation:3][citation:8].
+This project serves as both a practical coding exercise and a foundational step for building more complex e-commerce applications, making it an excellent choice for developers looking to enhance their front-end skills
 share the screenshot![Screenshot 2024-12-16 182828](https://github.com/user-attachments/assets/f7a998f9-a2be-47b2-b437-7b3513c767b8)
